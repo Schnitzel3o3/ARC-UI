@@ -19,16 +19,16 @@
     "$background_standard_color_bottom": [ 0, 0, 0, 0.75 ],
     "$toggle_icon_color": [ 1, 1, 1 ],
     "$toggle_background_color": [ 1, 1, 1 ],
-    "$background_renderer": false,
+    "$background_renderer": true,
     
-    "$custom_loading_background_overworld": false,
-    "$custom_loading_background_nether": false,
-    "$custom_loading_background_theend": false,
+    "$custom_loading_background_overworld": true,
+    "$custom_loading_background_nether": true,
+    "$custom_loading_background_theend": true,
       
     "$configname": "Default",
     "$show_changelog": true,
     "$show_warning_notification": true,
-    "$no_marketplace_button": false,
-    "$legacy_ui_layout": false,
-    "$main_menu_background": false 
+    "$no_marketplace_button": true,
+    "$legacy_ui_layout": true,
+    "$main_menu_background": true 
 }}
